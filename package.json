@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.1.1",
+  "description": "bral",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "HOLDA",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
